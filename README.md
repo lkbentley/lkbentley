@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a movement ecologist working in R to understand where and why migratory animals go where they go. 
+:penguin: 🐊 🦈
+
 <!--
 **lkbentley/lkbentley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
