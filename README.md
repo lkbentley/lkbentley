@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a movement ecologist working in R to understand where and why migratory animals go where they go. 
+I'm a movement ecologist working in R to understand where and why migratory animals travel over and across the ocean. 
 :penguin: 🐊 🦈
 
 <!--
